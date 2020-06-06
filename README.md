@@ -26,6 +26,10 @@ S7.Net Plus has a [User Manual](https://github.com/killnine/s7netplus/blob/maste
 ## Compile
 You need at least Visual Studio 2017 (you can download the Community Edition for free).
 
+## Tutorial
+
+https://www.youtube.com/watch?v=nSnGKm3FSbk
+
 ## Nuget
 
 PM> Install-Package S7netplus
